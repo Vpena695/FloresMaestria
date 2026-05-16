@@ -1,0 +1,6 @@
+streamlit
+pandas
+joblib
+numpy
+
+print("Archivo 'requirements.txt' creado exitosamente.")
